@@ -1,0 +1,10 @@
+
+add_subdirectory(chew)
+add_subdirectory(csq)
+add_subdirectory(hidparser)
+add_subdirectory(ip)
+add_subdirectory(libusb)
+add_subdirectory(lwip)
+add_subdirectory(ntoskrnl_vista)
+add_subdirectory(rtlver)
+add_subdirectory(sound)

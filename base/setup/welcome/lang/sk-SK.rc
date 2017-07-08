@@ -1,0 +1,40 @@
+/* Slovak translation by Kario  2007 <kario@szm.sk> */
+
+LANGUAGE LANG_SLOVAK, SUBLANG_DEFAULT
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Vitajte"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Vitajte v operačnom systéme ReactOS.\n\nKliknite na tlačidlo v ľavom stĺpci."
+
+    IDS_CHECKTEXT "Zobraziť toto okno aj nabudúce"
+    IDS_CLOSETEXT "Koniec"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Inštalovať ReactOS"
+    IDS_TOPICBUTTON1 "Prezerať toto CD"
+    IDS_TOPICBUTTON2 "Koniec"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Inštalovať ReactOS"
+    IDS_TOPICTITLE1 "Prezerať toto CD"
+    IDS_TOPICTITLE2 "Koniec"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Nainštaluje ReactOS na Váš počítač alebo zaktualizuje už existujúci systém."
+    IDS_TOPICDESC1 "Prezerať toto CD."
+    IDS_TOPICDESC2 "Kliknutím ukončíte tento program."
+END

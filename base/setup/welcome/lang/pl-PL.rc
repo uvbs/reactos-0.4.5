@@ -1,0 +1,44 @@
+/*
+ *    Translated by Polish Translation Team (Apr, 2007)
+ *    https://sourceforge.net/projects/reactospl
+ *    UTF-8 conversion by Caemyr (May, 2011)
+ */
+
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Zapraszamy"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Witaj w systemie operacyjnym ReactOS.\n\nWybierz temat po lewej."
+
+    IDS_CHECKTEXT "Pokaż ten dialog ponownie"
+    IDS_CLOSETEXT "Wyjście"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Zainstaluj ReactOS"
+    IDS_TOPICBUTTON1 "Przeglądaj CD"
+    IDS_TOPICBUTTON2 "Wyjście"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Zainstaluj ReactOS"
+    IDS_TOPICTITLE1 "Przeglądaj CD"
+    IDS_TOPICTITLE2 "Wyjście"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Utwórz nową instalację ReactOS na komputerze lub aktualizuj już istniejącą."
+    IDS_TOPICDESC1 "Przeglądaj CD."
+    IDS_TOPICDESC2 "Kliknij, aby zakończyć aplikację."
+END

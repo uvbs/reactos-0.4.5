@@ -1,0 +1,38 @@
+LANGUAGE LANG_NORWEGIAN, SUBLANG_NEUTRAL
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Velkommen"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Velkommen til ReactOS Operativsystem.\n\nTrykk et emne til venstre."
+
+    IDS_CHECKTEXT "Vis denne dialoget igjen"
+    IDS_CLOSETEXT "Avslutt"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Innstaller ReactOS"
+    IDS_TOPICBUTTON1 "Utforsk denne CD"
+    IDS_TOPICBUTTON2 "Avslutt"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Innstaller ReactOS"
+    IDS_TOPICTITLE1 "Utforsk denne CD"
+    IDS_TOPICTITLE2 "Avslutt"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Opprett en ny ReactOS innstallasjon på din datamaskin eller oppgrader eksisterende innstallasjon."
+    IDS_TOPICDESC1 "Utforsk CDen."
+    IDS_TOPICDESC2 "Trykk avslutt for å avslutte denne applikasjonen."
+END

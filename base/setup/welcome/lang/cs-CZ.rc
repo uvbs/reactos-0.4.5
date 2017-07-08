@@ -1,0 +1,38 @@
+LANGUAGE LANG_CZECH, SUBLANG_DEFAULT
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Vítejte"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Vítejte v operačním systému ReactOS.\n\nKlepněte na tlačítko v levém sloupci."
+
+    IDS_CHECKTEXT "Zobrazit dialog znovu"
+    IDS_CLOSETEXT "Konec"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Instalovat ReactOS"
+    IDS_TOPICBUTTON1 "Prohlížet toto CD"
+    IDS_TOPICBUTTON2 "Konec"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Instalovat ReactOS"
+    IDS_TOPICTITLE1 "Prohlížet toto CD"
+    IDS_TOPICTITLE2 "Konec"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Nainstaluje ReactOS na Váš počítač nebo zaktualizuje existující systém."
+    IDS_TOPICDESC1 "Prohlížet toto CD."
+    IDS_TOPICDESC2 "Klepněte pro ukončení tohoto programu."
+END

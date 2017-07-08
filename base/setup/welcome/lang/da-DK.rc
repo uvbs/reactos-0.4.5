@@ -1,0 +1,38 @@
+LANGUAGE LANG_DANISH, SUBLANG_DEFAULT
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Velkommen"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Velkommen til ReactOS operativ System.\n\nKlik på et emne til venstre."
+
+    IDS_CHECKTEXT "Vis denne dialog igen ved opstart"
+    IDS_CLOSETEXT "Afslut"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Installer ReactOS"
+    IDS_TOPICBUTTON1 "Gennemse Cdrom"
+    IDS_TOPICBUTTON2 "Afslut"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Installer ReactOS"
+    IDS_TOPICTITLE1 "Gennemse Cdrom"
+    IDS_TOPICTITLE2 "Afslut"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Opret en ny ReactOS installation på din computer eller opgradere en eksisterende installation."
+    IDS_TOPICDESC1 "Gennemse ReactOS Installations Cdrom"
+    IDS_TOPICDESC2 "Klik på Afslut for at lukke."
+END

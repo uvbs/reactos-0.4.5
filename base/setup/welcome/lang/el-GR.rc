@@ -1,0 +1,38 @@
+LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
+
+/* String Tables */
+
+/* Default settings */
+STRINGTABLE
+BEGIN
+    IDS_APPTITLE "ReactOS - Καλώς Ήλθατε"
+    IDS_DEFAULTTOPICTITLE "ReactOS"
+    IDS_DEFAULTTOPICDESC "Καλώς ήλθατε στο ReactOS Λειτουργικό Σύστημα.\n\nΕπιλέξτε ένα θέμα από το μενού στα αριστερά."
+
+    IDS_CHECKTEXT "Show this dialog again"
+    IDS_CLOSETEXT "Exit"
+END
+
+/* Topic buttons */
+STRINGTABLE
+BEGIN
+    IDS_TOPICBUTTON0 "Εγκατάσταση του ReactOS"
+    IDS_TOPICBUTTON1 "Εξερεύνηση αυτού του CD"
+    IDS_TOPICBUTTON2 "Έξοδος"
+END
+
+/* Topic titles */
+STRINGTABLE
+BEGIN
+    IDS_TOPICTITLE0 "Εγκατάσταση του ReactOS"
+    IDS_TOPICTITLE1 "Εξερεύνηση αυτού του CD"
+    IDS_TOPICTITLE2 "Έξοδος"
+END
+
+/* Topic descriptions */
+STRINGTABLE
+BEGIN
+    IDS_TOPICDESC0 "Δημιουργία νέας εγκατάστασης του ReactOS στον υπολογιστή ή αναβάθμιση μιας ήδη υπάρχουσας εγκατάστασης."
+    IDS_TOPICDESC1 "Εξερεύνηση αυτού του CD."
+    IDS_TOPICDESC2 "Πατήστε για να τερματίσετε την εφαρμογή αυτή."
+END
